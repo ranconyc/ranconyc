@@ -18,6 +18,8 @@
 <img alt='Figma' src='https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white' />
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white' />
+<img alt='Vercel' src='https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white' />
+
 
 
 
