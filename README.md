@@ -13,6 +13,7 @@
 <img alt='Next.js' src='https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white' />
 <img alt='Storybook' src='https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white' />
 <img alt='Tailwind' src='https://img.shields.io/badge/-Tailwind-06B6D4?logo=Tailwindcss&logoColor=white' />
+<img alt='styled-components' src='https://img.shields.io/badge/-Styled Components-DB7093?logo=styled-components&logoColor=white' />
 <img alt='Mongodb' src='https://img.shields.io/badge/-Mongodb-47A248?logo=Mongodb&logoColor=white' />
 <img alt='Figma' src='https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white' />
