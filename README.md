@@ -13,6 +13,7 @@
 <img alt='Next.js' src='https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white' />
 <img alt='Mongodb' src='https://img.shields.io/badge/-Mongodb-47A248?logo=Mongodb&logoColor=white' />
 <img alt='Figma' src='https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white' />
+<img alt='Figma' src='https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white' />
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white' />
 
 
