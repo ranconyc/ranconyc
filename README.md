@@ -5,6 +5,8 @@
 - 📫 How to reach me Ranco.nyc@gmail.com
 
 ## skills
+![alt HTML5](http://url/to/img.png](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![alt text](http://url/to/img.png)
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white' />
 <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white' />
