@@ -11,10 +11,13 @@
 <img alt='TypeScript' src='https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white' />
 <img alt='React' src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white' />
 <img alt='Next.js' src='https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white' />
+<img alt='Storybook' src='https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white' />
+<img alt='Tailwind' src='https://img.shields.io/badge/-Tailwind-06B6D4?logo=Tailwind&logoColor=white' />
 <img alt='Mongodb' src='https://img.shields.io/badge/-Mongodb-47A248?logo=Mongodb&logoColor=white' />
 <img alt='Figma' src='https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white' />
-<img alt='Figma' src='https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white' />
+<img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white' />
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white' />
+
 
 
 
