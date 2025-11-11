@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ranconyc
+- 👋 Hi, I’m rancon
 - 👀 I’m interested in smart ways to write code and the way humans interactions with technology 
 - 🌱 I’m currently learning Next.js advanced
 - 💞️ I’m looking to collaborate on fun projects
